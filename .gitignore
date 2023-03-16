@@ -1,0 +1,5 @@
+node_modules
+*.pack
+*.pack
+*.pack
+.angular/cache/14.2.9/angular-webpack/705e382cbb94b15c9989f1b418ca333c469b4d2c/0.pack
